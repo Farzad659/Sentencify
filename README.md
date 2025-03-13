@@ -10,7 +10,7 @@
 ## Installation 
 1. **Clone the repository**
   ```bash
-  git clone https://github.com/Farzad659/sentencify.git
+  git clone https://github.com/Farzad659/Sentencify.git
   cd sentencify
   ```
 2. **Install requiered dependencies**:
